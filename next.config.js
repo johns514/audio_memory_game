@@ -1,4 +1,5 @@
 // noinspection JSUnusedGlobalSymbols
+const audioConfig = require ("./__mocks__/audioConfig");
 module.exports = {
   poweredByHeader: false,
   webpack(config, options) {
